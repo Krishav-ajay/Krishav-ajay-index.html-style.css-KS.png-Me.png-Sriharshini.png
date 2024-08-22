@@ -1,0 +1,39 @@
+.img {
+    border-radius: 50%;
+    border: 3px teal groove;
+}
+
+.Krishav {
+    display: flex;
+    justify-content: center;
+}
+
+.gh {
+    border-radius: 50px;
+    background-color: black !important;
+}
+
+.khaki {
+    height: 89vh;
+    display: grid;
+    border: 3px black solid;
+    margin: 1%;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.dagbok {
+    border: 3px teal solid;
+    margin: 5px;
+}
+
+body {
+    background-color: rgb(154, 189, 255);
+}
+
+.black {
+    background-color: rgba(0, 0, 0, 0.55);
+    padding: 10px;
+    border-radius: 10px;
+    height: 200px;
+}
